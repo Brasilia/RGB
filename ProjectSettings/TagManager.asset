@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerProjectile
+  - Enemy
+  - EnemyProjectile
+  - PauseRelative
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: CloudBG
+    uniqueID: 2458015953
+    locked: 0
+  - name: CityBG
+    uniqueID: 1870712625
+    locked: 0
+  - name: Objects
+    uniqueID: 279487737
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
